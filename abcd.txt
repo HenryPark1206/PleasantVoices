@@ -1,1 +1,4 @@
 Coming Soon:)
+Day 3 -->
+Current functionalities: TTS, STT
+Today I tuned TTS system for better accuracy and changed a model for STT.
